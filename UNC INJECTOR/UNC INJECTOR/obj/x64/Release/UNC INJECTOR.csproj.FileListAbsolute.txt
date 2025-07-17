@@ -1,0 +1,13 @@
+C:\Users\edu\Documents\GitHub\DLL_INJECTOR\UNC INJECTOR\UNC INJECTOR\bin\x64\Release\UNC INJECTOR.exe.config
+C:\Users\edu\Documents\GitHub\DLL_INJECTOR\UNC INJECTOR\UNC INJECTOR\bin\x64\Release\UNC INJECTOR.exe
+C:\Users\edu\Documents\GitHub\DLL_INJECTOR\UNC INJECTOR\UNC INJECTOR\bin\x64\Release\UNC INJECTOR.pdb
+C:\Users\edu\Documents\GitHub\DLL_INJECTOR\UNC INJECTOR\UNC INJECTOR\bin\x64\Release\Guna.UI2.dll
+C:\Users\edu\Documents\GitHub\DLL_INJECTOR\UNC INJECTOR\UNC INJECTOR\obj\x64\Release\UNC INJECTOR.csproj.AssemblyReference.cache
+C:\Users\edu\Documents\GitHub\DLL_INJECTOR\UNC INJECTOR\UNC INJECTOR\obj\x64\Release\UNC_INJECTOR.Injector.resources
+C:\Users\edu\Documents\GitHub\DLL_INJECTOR\UNC INJECTOR\UNC INJECTOR\obj\x64\Release\UNC_INJECTOR.Properties.Resources.resources
+C:\Users\edu\Documents\GitHub\DLL_INJECTOR\UNC INJECTOR\UNC INJECTOR\obj\x64\Release\UNC INJECTOR.csproj.GenerateResource.cache
+C:\Users\edu\Documents\GitHub\DLL_INJECTOR\UNC INJECTOR\UNC INJECTOR\obj\x64\Release\UNC INJECTOR.csproj.CoreCompileInputs.cache
+C:\Users\edu\Documents\GitHub\DLL_INJECTOR\UNC INJECTOR\UNC INJECTOR\obj\x64\Release\UNC INJE.3659CF5F.Up2Date
+C:\Users\edu\Documents\GitHub\DLL_INJECTOR\UNC INJECTOR\UNC INJECTOR\obj\x64\Release\UNC INJECTOR.exe
+C:\Users\edu\Documents\GitHub\DLL_INJECTOR\UNC INJECTOR\UNC INJECTOR\obj\x64\Release\UNC INJECTOR.pdb
+C:\Users\edu\Documents\GitHub\DLL_INJECTOR\UNC INJECTOR\UNC INJECTOR\obj\x64\Release\UNC INJECTOR.exe.config
